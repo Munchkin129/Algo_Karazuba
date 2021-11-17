@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\drik\source\repos\Alogorithmen\Karazuba\main.cpp(9,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\drik\source\repos\Alogorithmen\Karazuba\main.cpp(45,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\drik\source\repos\Alogorithmen\Karazuba\main.cpp(46,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\drik\source\repos\Alogorithmen\Karazuba\main.cpp(59,68): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Karazuba.vcxproj -> C:\Users\drik\source\repos\Alogorithmen\Debug\Karazuba.exe
